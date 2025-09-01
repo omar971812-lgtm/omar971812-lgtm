@@ -19,7 +19,7 @@ Me llamo Omar 😄, soy egresado de la Facultad de Estudios Superiores Iztacala,
 ```
                                                                 **SOBRE MI**
 🐶😺 "Me gusta pasar tiempo con mis perrit@s y gatitas"
-⚽  "MJugar fútbol los fines de semana"
+⚽  "Jugar fútbol los fines de semana"
 👨‍👩‍👦‍👦 "Pasar tiempo en familia"
 👻 "Ir al cine"
 ```
